@@ -114,6 +114,9 @@ A data scientist and deep learning researcher with a strong background in comput
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,c,cpp,matlab,bash,pytorch,tensorflow,opencv,docker,gcp,git,linux)](https://skillicons.dev)
+
+---
 
 If you find my work interesting, feel free to reach out — always open to collaborations and research opportunities!
 
