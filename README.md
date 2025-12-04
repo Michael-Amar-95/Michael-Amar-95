@@ -1,11 +1,11 @@
 # <h1 align="center"> 👋 Hi, I'm Michael Amar </h1>
 <p align="center">
-  Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc
+  *Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc*
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Michael-Amar-95)
-</p>
+
+![](https://komarev.com/ghpvc/?username=Michael-Amar-95)
+
 
 
 
