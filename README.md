@@ -5,7 +5,7 @@
 * M.Sc. in Computer Science & Biology from Tel Aviv University, awarded an Excellence Scholarship from the Edmond J. Safra Bioinformatics Program.
 * B.Sc. in Computer Science & Biology, graduated with honors.
 * 📫 How to reach me: **[michaeldanamar@gmail.com](mailto:michaeldanamar@gmail.com)**
-* 🤝 Connect with Me: **https://www.linkedin.com/in/michaelamar1/**
+* 🤝 Connect with me: **https://www.linkedin.com/in/michaelamar1/**
 
 ---
 
