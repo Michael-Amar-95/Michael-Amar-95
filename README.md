@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Michael Amar****
+# 👋 Hi, I'm **Michael Amar**
 
 **Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**
 
