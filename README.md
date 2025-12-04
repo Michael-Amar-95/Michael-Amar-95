@@ -1,8 +1,7 @@
-# 👋 Hi, I'm **Michael Amar**
+<h1 align="center"> # 👋 Hi, I'm **Michael Amar** </h1>
+<h1 align="center"> **Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc** </h1>
 
-**Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**
-
-![](https://komarev.com/ghpvc/?username=Michael-Amar-95)
+<h1 align="center"> ![](https://komarev.com/ghpvc/?username=Michael-Amar-95) </h1>
 
 
 * M.Sc. in Computer Science & Biology from Tel Aviv University, awarded an Excellence Scholarship from the Edmond J. Safra Bioinformatics Program.
@@ -125,5 +124,14 @@ A data scientist and deep learning researcher with a strong background in comput
 
 If you find my work interesting, feel free to reach out — always open to collaborations and research opportunities!
 
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Amar-95&layout=compact&theme=radical)
+
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Amar-95&show_icons=true&theme=radical)
 
 ---
