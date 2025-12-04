@@ -2,6 +2,10 @@
 
 **Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**
 
+![](https://komarev.com/ghpvc/?username=Michael‑Amar‑95)
+``` :contentReference[oaicite:1]{index=1}  
+
+
 * M.Sc. in Computer Science & Biology from Tel Aviv University, awarded an Excellence Scholarship from the Edmond J. Safra Bioinformatics Program.
 * B.Sc. in Computer Science & Biology, graduated with honors.
 * 📫 How to reach me: **[michaeldanamar@gmail.com](mailto:michaeldanamar@gmail.com)**
