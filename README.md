@@ -19,14 +19,6 @@ A data scientist and deep learning researcher with a strong background in comput
 
 ---
 
-## 🚀 About Me
-
-* Passionate about data-driven research, machine learning, and real‑world impact.
-* Experienced in deep learning, computer vision, and bioinformatics algorithms.
-* Enjoy solving complex interdisciplinary problems at the intersection of AI & biology.
-* Strong analytical mindset with hands-on experience in model deployment and scalable pipelines.
-
----
 
 ## 🛠️ Tech Stack
 
