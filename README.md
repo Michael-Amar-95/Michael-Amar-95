@@ -1,5 +1,5 @@
-<h1 align="center"> # 👋 Hi, I'm **Michael Amar** </h1>
-<h1 align="center"> **Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc** </h1>
+# <h1 align="center"> 👋 Hi, I'm Michael Amar </h1>
+<h1 align="center"> Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc </h1>
 
 <h1 align="center"> ![](https://komarev.com/ghpvc/?username=Michael-Amar-95) </h1>
 
