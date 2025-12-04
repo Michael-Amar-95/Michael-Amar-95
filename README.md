@@ -4,8 +4,9 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=Michael-Amar-95)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Michael-Amar-95" alt="Profile Views"/>
+</p>
 
 
 
