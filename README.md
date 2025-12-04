@@ -1,13 +1,9 @@
 # <h1 align="center"> 👋 Hi, I'm Michael Amar </h1>
-<p align="center">
-  **Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**
-</p>
-
+<center>**Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**</center>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michael-Amar-95" alt="Profile Views"/>
 </p>
-
 
 
 * M.Sc. in Computer Science & Biology from Tel Aviv University, awarded an Excellence Scholarship from the Edmond J. Safra Bioinformatics Program.
