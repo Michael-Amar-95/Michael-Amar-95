@@ -1,10 +1,21 @@
-# 👋 Hi, I'm **Michael Amar**
+# 👋 Hi, I'm **Michael Amar****
 
 **Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**
 
-I am a data scientist and deep learning researcher with a strong background in computer vision, machine learning, and computational biology.
-Holds an **M.Sc. in Computer Science & Biology** from **Tel Aviv University**, with an **Excellence Scholarship** from the Edmond J. Safra Bioinformatics Program.
-Graduated **B.Sc. in Computer Science & Biology with honors**.
+* M.Sc. in Computer Science & Biology from Tel Aviv University, awarded an Excellence Scholarship from the Edmond J. Safra Bioinformatics Program.
+* B.Sc. in Computer Science & Biology, graduated with honors.
+* 📫 How to reach me: **[michaeldanamar@gmail.com](mailto:michaeldanamar@gmail.com)**
+
+---
+
+## 🚀 About Me
+
+A data scientist and deep learning researcher with a strong background in computer vision, machine learning, and computational biology.
+
+* Passionate about data‑driven research and real‑world impact.
+* Experienced in deep learning, computer vision, and bioinformatics algorithms.
+* Enjoy solving complex interdisciplinary problems.
+* Strong analytical mindset with hands‑on experience in model deployment and scalable pipelines.
 
 ---
 
@@ -19,15 +30,13 @@ Graduated **B.Sc. in Computer Science & Biology with honors**.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, R, SQL, Bash
+**Languages:** Python, R, Java, C, C++, MATLAB, Bash
 
-**ML & DL Frameworks:** PyTorch, TensorFlow, Scikit-learn, XGBoost, OpenCV, YOLOv7
+**ML & DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, NumPy, Pandas, OpenCV, YOLOv7, YOLO, LLaVA, CLIP, Hugging Face
 
-**Bioinformatics Tools:** FASTQC, Trimmomatic, Bowtie, STAR, GATK, SAMtools, bcftools, Picard, Bedtools, phASER, MACS2, HOMER
+**Algorithms & Methods:** Linear Regression, Random Forest, SVM, Ensemble Models, CNN, RNN, LLMs, Data Visualization
 
-**Methods:** ASE analysis, PCA, clustering, differential expression, peak calling, motif analysis
-
-**Cloud & Tools:** Docker, GCP, Git, Miniconda, Linux
+**Cloud & Tools:** Docker, GCP, Git, HPC clusters, Virtual Machines, Anaconda/Conda, Linux
 
 ---
 
@@ -98,22 +107,23 @@ Graduated **B.Sc. in Computer Science & Biology with honors**.
 **Prioritizing functional noncoding variants affecting gene expression**
 
 * Developed algorithms to identify regulatory variants from genomic data.
-* Focused on non‑coding SNPs affecting transcription factor binding.
-* Performed large‑scale NGS analyses integrating:
+* Focused on non-coding SNPs affecting transcription factor binding and gene regulation.
+* Performed large-scale NGS analyses integrating:
 
-  * **GWAS**, **eQTL**, **functional genomics**, **multi‑omics** datasets.
-* Techniques used: variant‑to‑function mapping, statistical fine‑mapping, motif impact analysis.
-* Tools & ecosystems: Python, R, Bioconductor, Docker, Conda.
+  * **GWAS**, **eQTL**, **functional genomics**, and **multi-omics** datasets.
+* Applied techniques such as variant-to-function mapping, statistical fine-mapping, motif impact analysis.
 
----
+**NGS Tools:** FASTQC, Trimmomatic, Bowtie, STAR, GATK, SAMtools, bcftools, Picard, Bedtools, phASER, ChIPSeeker, MACS2, HOMER, motifBreakR, IGV
 
-## 📫 How to Reach Me
-
-📧 **[michaeldanamar@gmail.com](mailto:michaeldanamar@gmail.com)**
+**Bioinformatics Methods:** DESeq2, ASE analysis, PCA, clustering, differential expression, gene expression analysis, motif analysis, enrichment analysis, peak calling, SVM for biological classification
 
 ---
+
 
 If you find my work interesting, feel free to reach out — always open to collaborations and research opportunities!
+
+
+---
 
 
 <!--
