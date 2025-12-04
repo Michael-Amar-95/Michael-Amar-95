@@ -5,6 +5,7 @@
 * M.Sc. in Computer Science & Biology from Tel Aviv University, awarded an Excellence Scholarship from the Edmond J. Safra Bioinformatics Program.
 * B.Sc. in Computer Science & Biology, graduated with honors.
 * 📫 How to reach me: **[michaeldanamar@gmail.com](mailto:michaeldanamar@gmail.com)**
+* 🤝 Connect with Me: **https://www.linkedin.com/in/michaelamar1/**
 
 ---
 
@@ -74,6 +75,8 @@ A data scientist and deep learning researcher with a strong background in comput
 
 ## 📌 **Strabismus Surgery Outcome Prediction – Medical ML**
 
+**Repository:** Hackathon_optika
+
 **Hackathon with Ichilov & Microsoft — 2nd Place & Presented at AAPOS**
 
 * Developed ML models to predict surgery outcomes and optimal surgical angles.
@@ -116,19 +119,3 @@ If you find my work interesting, feel free to reach out — always open to colla
 
 
 ---
-
-
-<!--
-**Michael-Amar-95/Michael-Amar-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
