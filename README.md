@@ -130,10 +130,3 @@ If you find my work interesting, feel free to reach out — always open to colla
 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Amar-95&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
