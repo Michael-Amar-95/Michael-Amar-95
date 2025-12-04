@@ -1,5 +1,7 @@
 # <h1 align="center"> 👋 Hi, I'm Michael Amar </h1>
-<center>**Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc**</center>
+<p align="center">
+  <b>Data Scientist | Computer Vision & Deep Learning | Bioinformatics MSc</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Michael-Amar-95" alt="Profile Views"/>
