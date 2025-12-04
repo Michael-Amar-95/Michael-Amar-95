@@ -115,7 +115,7 @@ A data scientist and deep learning researcher with a strong background in comput
 ---
 
 # 🛠 My Skills:
-[![Skills](https://skillicons.dev/icons?i=python,r,java,c,cpp,matlab,bash,pytorch,tensorflow,keras,opencv,numpy,pandas,jupyter,huggingface,docker,gcp,git,linux,anaconda)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=python,r,java,c,cpp,matlab,bash, perl, pytorch,tensorflow, opencv, docker,gcp,git,linux, ubuntu, vim, anaconda)](https://skillicons.dev)    
 
 ---
 
