@@ -131,11 +131,9 @@ If you find my work interesting, feel free to reach out — always open to colla
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Amar-95&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Michael-Amar-95&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Amar-95&show_icons=true&theme=radical)
 
 ---
